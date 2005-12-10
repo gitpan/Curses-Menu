@@ -1,0 +1,38 @@
+README for Curses::Menu
+
+About:
+
+  Curses::Menu is a Perl5 module for providing a simple menu interface
+  to users using the Curses interface to perform text
+  positioning/layout.
+
+  Copyright (C) 2005, Chris Collins.  All rights reserved.
+
+  This module is released under the modified BSD license.  Please see
+  Copying.
+
+Preqequisites:
+
+  * Curses
+
+How to install:
+
+  In your favourite shell:
+
+  $ perl Makefile.PL
+  $ make
+  $ make install
+
+  (No test-suite yet).
+
+Changes:
+
+  1.00 :
+
+    * First release
+
+Planned Enhancements:
+
+  * None yet.
+
+-- Chris "Crossfire" Collins <xfire@xware.cx> - 10 Dec 2005

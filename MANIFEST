@@ -1,0 +1,9 @@
+examples/test.pl
+examples/test2.pl
+lib/Curses/Menu.pm
+lib/Curses/Menu/MultiSelect.pm
+Makefile.PL
+MANIFEST			This list of files
+Copying
+README
+META.yml                                 Module meta-data (added by MakeMaker)
